@@ -15,9 +15,9 @@ F.Plugins Discord: https://discord.gg/8zded6r
 </Config>
 ```
 # Permissions
-Ban: moderation.ban
-Kick: moderation.kick
+Ban: ``moderation.ban``
 
+Kick: ``moderation.kick``
 # WebHook preview
 
 https://i.imgur.com/EOvE923.png (You can customize the webhook name and photo)
