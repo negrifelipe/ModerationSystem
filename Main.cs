@@ -24,13 +24,8 @@ namespace F.ModerationSystem
         protected override void Load()
         {
             Instance = this;
-
-            Logger.Log("####################################################", ConsoleColor.Red);
-            Logger.Log("#             F.ModerationSystem Loaded            #", ConsoleColor.Red);
-            Logger.Log("#                 Plugin By: Feli                  #", ConsoleColor.Red);
-            Logger.Log("#    Discord Support:https://discord.gg/6zQVJ9p    #", ConsoleColor.Red);
-            Logger.Log("#                 Plugin Ver: 1.0.2                #", ConsoleColor.Red);
-            Logger.Log("####################################################", ConsoleColor.Red);
+            Logger.Log("F.ModerationSystem Loaded", ConsoleColor.Red);
+            Logger.Log("Discord Support: https://discord.gg/6zQVJ9p", ConsoleColor.Red);
         }
 
         public override TranslationList DefaultTranslations => new TranslationList()
