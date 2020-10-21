@@ -1,4 +1,6 @@
 # ModerationSystem
+[![Github All Releases](https://img.shields.io/github/downloads/01-Feli/ModerationSystem/total.svg)]()
+
 ModerationSystem Plugin allows you to  use /ban /kick commands with a discord webhook and with an easy configuration
 
 In a near future i will add more commands like freeze unfreeze and other stuff
